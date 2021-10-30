@@ -33,6 +33,6 @@ I learned a lot more about how to use eventlisteners as well as various loops in
 Screenshots below!
 ![Image of website](./Assets/Website.PNG)
 
-Link to Password Generator
+Link to Work Day Scheduler
 [Password Generator](https://cluck135.github.io/Work-Day-Scheduler/)
 
