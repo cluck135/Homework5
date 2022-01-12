@@ -13,7 +13,7 @@ You'll need to use the [Moment.js](https://momentjs.com/) library to work with d
 - [Contribution Guidelines](#contribution-guidelines)
 - [Test Instructions](#test-instructions)
 - [Questions](#questions)
-- [project](#project)
+- [Project](#project)
 
 ## Usage Information
 right click index.html and open in browser
@@ -34,7 +34,6 @@ Email me your questions at: [casenluck@gmail.com](mailto:casenluck@gmail.com)
 
 ## Project
 
-Screenshots below!
 ![Image of website](./Assets/Website.PNG)
 
 Link to Work Day Scheduler
